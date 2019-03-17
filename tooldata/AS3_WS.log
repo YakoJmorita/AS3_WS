@@ -1,0 +1,16 @@
+Project Name: AS3_WS
+Location: C:\Users\kiyot\Documents\Customer\Yakotech\AS3\HardWare\FPGA\Project_AS3_WS\AS3_WS
+Description: Servodrive FPGA Project For Yakotec AS3
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : M2GL010-1TQ144
+Family         : IGLOO2
+Die            : M2GL010
+Package        : 144 TQ
+Speed          : -1
+Core Voltage   : 1.2
+Range          : COM
